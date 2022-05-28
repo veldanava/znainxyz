@@ -314,6 +314,7 @@ section {
   display: block;
   width: 120px;
   height: 1px;
+  color: white;
   background: #ddd;
   bottom: 1px;
   left: calc(50% - 60px);
