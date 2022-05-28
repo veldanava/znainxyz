@@ -405,9 +405,12 @@ section {
   background-color: #9F0500;
 }
 #disqus_thread {
-  border-color: #cccccc;
-  padding: 10dp;
+  padding: 10px 0;
   margin: 10px 0;
+  .a {
+    padding: 5px;
+  }
+  
 }
 /*--------------------------------------------------------------
 # Footer
