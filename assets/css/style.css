@@ -402,10 +402,9 @@ section {
 # Disqus
 --------------------------------------------------------------*/
 #disqus_thread {
-  padding: 10px;
-  margin: 10px;
+  padding: 5px;
   .d {
-    padding: 5px;
+    padding-right: 5px;
   }
   
 }
@@ -414,8 +413,8 @@ section {
 --------------------------------------------------------------*/
 #footer {
    width: 100%;
-  background: url("../img/vector.jpg") top no-repeat;
-   background-size:100% 500px;
+  background: url("../img/vector.jpg") center no-repeat;
+   background-size:100%;
   color: #45505b;
   font-size: 14px;
   text-align: center;
