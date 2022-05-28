@@ -404,14 +404,16 @@ section {
   border-radius: 10;
   background-color: #9F0500;
 }
-
+.disqus_thread {
+  margin: 10px;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
    width: 100%;
   background: url("../img/vector.jpg") top;
-   background-size:100%;
+   background-size:100% 130px;
   color: #45505b;
   font-size: 14px;
   text-align: center;
