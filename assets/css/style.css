@@ -404,7 +404,8 @@ section {
   border-radius: 10;
   background-color: #9F0500;
 }
-.disqus_thread {
+#disqus_thread {
+  border-color: #cccccc;
   margin: 10px;
 }
 /*--------------------------------------------------------------
