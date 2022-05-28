@@ -406,7 +406,8 @@ section {
 }
 #disqus_thread {
   border-color: #cccccc;
-  margin: 10px;
+  padding: 10dp;
+  margin: 10px 0;
 }
 /*--------------------------------------------------------------
 # Footer
