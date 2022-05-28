@@ -1,10 +1,3 @@
-/**
-* Template Name: MyResume - v4.7.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -404,10 +397,14 @@ section {
   border-radius: 10;
   background-color: #9F0500;
 }
+
+/*--------------------------------------------------------------
+# Disqus
+--------------------------------------------------------------*/
 #disqus_thread {
-  padding: 10px 0;
-  margin: 10px 0;
-  .a {
+  padding: 10px;
+  margin: 10px;
+  .d {
     padding: 5px;
   }
   
