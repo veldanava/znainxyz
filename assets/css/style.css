@@ -413,7 +413,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
    width: 100%;
-  background: url("../img/vector.jpg") center no-repeat;
+  background: url("../img/vector.jpg") no-repeat;
    background-size:100%;
   color: #45505b;
   font-size: 14px;
