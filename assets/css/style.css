@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a span, .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #ffffff;
 }
 @media (min-width: 992px) {
   .nav-menu a, .nav-menu a:focus {
@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
 #footer {
    width: 100%;
    background-size:100%;
-  color: #45505b;
+  color: #ffffff;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
