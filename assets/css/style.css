@@ -196,40 +196,6 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a:hover span, .nav-menu li:hover > a span {
   display: block;
 }
-
-/**
-* Mobile Navigation 
-*/
-.mobile-nav-toggle {
-  position: fixed;
-  right: 10000px;
-  top: 20px;
-  z-index: 9998;
-  border: 0;
-  background: none;
-  font-size: 28px;
-  transition: all 0.4s;
-  outline: none !important;
-  line-height: 0;
-  cursor: pointer;
-  border-radius: 50px;
-  padding: 5px;
-}
-.mobile-nav-toggle i {
-  color: #45505b;
-}
-
-.mobile-nav-active {
-  overflow: hidden;
-}
-.mobile-nav-active #header {
-  left: 0;
-}
-.mobile-nav-active .mobile-nav-toggle {
-  color: #fff;
-  background-color: #9F0500;
-}
-
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -286,8 +252,12 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
   }
 }
-
-
+/*--------------------------------------------------------------
+# Greetings
+--------------------------------------------------------------*/
+#lblGreetings {
+  color: white;
+}
 /*--------------------------------------------------------------
 # Disqus
 --------------------------------------------------------------*/
