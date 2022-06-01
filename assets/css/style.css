@@ -1,10 +1,3 @@
-/**
-* Template Name: DevFolio - v4.7.1
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -490,7 +483,7 @@ a:hover {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: black;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -624,7 +617,7 @@ a:hover {
   margin-bottom: 2rem;
 }
 .about-mf .about-img img {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
