@@ -775,6 +775,28 @@ footer .copyright {
 footer .credits {
   margin-bottom: 0;
 }
+#footer .social-links {
+  margin: 0 0 40px 0;
+}
+#footer .social a {
+  font-size: 18px;
+  display: inline-block;
+  background: #9F0500;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+#footer .social a:hover {
+  background: #3D1313;
+  color: #fff;
+  text-decoration: none;
+}
 footer .credits a {
   color: #fff;
 }
