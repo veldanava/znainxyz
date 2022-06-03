@@ -314,6 +314,7 @@ a:hover {
 }
 #header .logo a {
   color: #cc0000;
+  font-family: 'Teko', sans-serif;
 }
 #header .logo img {
   max-height: 40px;
