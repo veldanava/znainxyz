@@ -617,7 +617,7 @@ a:hover {
   margin-bottom: 2rem;
 }
 .about-mf .about-img img {
-  margin-left: 3px;
+  margin-left: 0px;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
