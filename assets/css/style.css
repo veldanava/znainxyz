@@ -10,11 +10,13 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6 {
   color: #cc0000;
 }
-
+h5 {
+  color: #cc0000;
+  text-align: center;
+}
 a {
   color: #cc0000;
   text-decoration: none;
@@ -313,7 +315,8 @@ a:hover {
   letter-spacing: 1px;
 }
 #header .logo a {
-  color: #cc0000;
+  color: white;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   font-family: 'Teko', sans-serif;
 }
 #header .logo img {
