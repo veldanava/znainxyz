@@ -555,6 +555,7 @@ a:hover {
 }
 .hero .hero-title {
   color: #fff;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   font-weight: 600;
   font-size: 3rem;
 }
