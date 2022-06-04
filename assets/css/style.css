@@ -614,11 +614,11 @@ a:hover {
 }
 .about-mf .about-img {
   margin-bottom: 2rem;
-  box-shadow: 7px 7px 5px black;
+  box-shadow: 7px 7px 5px #000000;
 }
 .about-mf .about-img img {
   margin-left: 0px;
-  box-shadow: 7px 7px 5px black;
+  box-shadow: 7px 7px 5px #000000;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
