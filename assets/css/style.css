@@ -554,6 +554,7 @@ a:hover {
   opacity: 0.9;
 }
 .hero .hero-title {
+  font-family: 'Rubik Glitch', cursive;
   color: #fff;
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   font-weight: 600;
@@ -689,6 +690,9 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+}
+.h5 {
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
