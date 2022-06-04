@@ -782,6 +782,7 @@ footer {
 }
 footer .copyright {
   margin-bottom: 0.3rem;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 footer .credits {
   margin-bottom: 0;
@@ -810,4 +811,5 @@ footer .credits {
 }
 footer .credits a {
   color: #fff;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
