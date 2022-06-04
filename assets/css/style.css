@@ -633,11 +633,12 @@ a:hover {
 .skill-mf .progress {
   background-color: #814a4a;
   margin: 0.5rem 0 1.2rem 0;
-  border-radius: 0;
+  border-radius: 5;
   height: 0.7rem;
 }
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
+  border-radius: 5;
   background-color: #cc0000;
 }
 
