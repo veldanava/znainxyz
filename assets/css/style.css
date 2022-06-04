@@ -169,14 +169,7 @@ a:hover {
   font-size: 2rem;
   position: relative;
 }
-.title-left:before {
-  content: "";
-  position: absolute;
-  height: 3px;
-  background-color: #cc0000;
-  width: 100px;
-  bottom: -12px;
-}
+
 
 /*------/ Box /------*/
 .box-pl2 {
@@ -621,11 +614,11 @@ a:hover {
 }
 .about-mf .about-img {
   margin-bottom: 2rem;
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 7px 7px 5px black;
 }
 .about-mf .about-img img {
   margin-left: 0px;
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 7px 7px 5px black;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
