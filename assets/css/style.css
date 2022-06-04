@@ -750,7 +750,11 @@ a:hover {
   padding: 4rem 0 0 0;
   border-radius: 10px;
 }
-
+.contact .h5 {
+   color: #fff;
+  font-weight: 600;
+  font-size: 3rem;
+}
 .contact-mf {
   margin-top: 4rem;
 }
@@ -776,10 +780,10 @@ footer .copyright {
 footer .credits {
   margin-bottom: 0;
 }
-#footer .social {
+#footer .linked {
   margin: 0 0 40px 0;
 }
-#footer .social a {
+#footer .linked a {
   font-size: 18px;
   display: inline-block;
   background: #9F0500;
@@ -793,7 +797,7 @@ footer .credits {
   height: 36px;
   transition: 0.3s;
 }
-#footer .social a:hover {
+#footer .linked a:hover {
   background: #3D1313;
   color: #fff;
   text-decoration: none;
