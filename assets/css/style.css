@@ -154,8 +154,8 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
-  height: 5px;
+  width: 55px;
+  height: 3px;
   background-color: #cc0000;
   margin: 0 auto;
 }
@@ -621,9 +621,11 @@ a:hover {
 }
 .about-mf .about-img {
   margin-bottom: 2rem;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
 .about-mf .about-img img {
   margin-left: 0px;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
