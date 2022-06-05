@@ -813,12 +813,12 @@ footer .credits a {
 .fa {
   border-radius: 50px;
   padding: 5px;
-  font-size: 5px;
+  font-size: 30px;
   height: 45px;
   width: 45px;
   text-align: center;
   text-decoration: none;
-  margin: 5px;
+  margin: 5px 5px;
 }
 
 .fa:hover {
