@@ -238,11 +238,11 @@ const user = {
    language: language
 };
  
-if (user.language === "English") {
+if (user.language === "inggris") {
    alert("Nice to meet you " + user.name.first + " " + user.name.last + "!");
-} else if (user.language === "French") {
+} else if (user.language === "perancis") {
    alert("Ravi de vous rencontrer " + user.name.first + " " + user.name.last + "!");
-} else if (user.language === "Japanese") {
+} else if (user.language === "jepang") {
    alert("Hajimemashite, " + user.name.first + " " + user.name.last + "!");
 } else {
    alert("Senang bertemu dengan Anda " + user.name.first + " " + user.name.last + "!");
