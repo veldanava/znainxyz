@@ -226,8 +226,8 @@
     });
   }
 
-  const firstName = prompt("Siapa nama depanmu?");
-const lastName = prompt("Siapa nama belakangmu?");
+  const firstName = prompt("Nama Depan?");
+const lastName = prompt("Nama Belakang?");
 const language = prompt("Bisa berbahasa apa?");
  
 const user = {
@@ -243,7 +243,7 @@ if (user.language === "inggris") {
 } else if (user.language === "perancis") {
    alert("Ravi de vous rencontrer " + user.name.first + " " + user.name.last + "!");
 } else if (user.language === "jepang") {
-   alert("Hajimemashite, " + user.name.first + " " + user.name.last + "!");
+   alert("Hajimemashite, " + user.name.first + " " + user.name.last + " - San!");
 } else {
    alert("Senang bertemu dengan Anda " + user.name.first + " " + user.name.last + "!");
 }
