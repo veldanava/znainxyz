@@ -20,37 +20,6 @@ $vimeo: #1ab7ea;
 $border-radius: 10px;
 $font-size: 25px;
 
-/*common styles !!!YOU DON'T NEED THEM */
-.container {
-  margin: 60px auto 0px auto;
-  text-align: center;
-  
-  h1 {
-    font: {
-      family: 'Roboto', sans-serif;
-      weight: 900;
-      size: 30px;
-    }
-    text-transform: uppercase;
-    color: $basic-dark-color;
-    letter-spacing: 3px;
-    
-    span {
-      display: inline-block;
-      
-      &:before,
-      &:after {
-        content: "";
-        display: block;
-        width: 34px;
-        height: 2px;
-        background-color: $basic-dark-color;
-        margin: 0px 0px 0px 2px;
-      }
-    }
-  }
-}
-
 .effect {
   width: 100%;
   padding: 50px 0px 70px 0px;
@@ -93,9 +62,7 @@ $font-size: 25px;
 }
 
 /*common link styles !!!YOU NEED THEM*/
-.effect {
-  /*display: flex; !!!uncomment this line !!!*/
-  
+.effect {  
   a {
     text-decoration: none !important;
     color: $basic-light-color;
