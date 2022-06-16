@@ -868,7 +868,7 @@ footer .credits a {
   overflow: hidden;
 }
 .ball.twitter {
-  background-image: radial-gradient(circle at 50% 120%, #25a1ce, #0084b4 80%, #0080af 100%);
+  background-image: radial-gradient(circle at 50% 120%, #674ea7, #8e7cc3 80%, #b4a7d6 100%);
 }
 .ball.github {
   background-image: radial-gradient(circle at 50% 120%, #312121, #151213 80%, #000000 100%);
