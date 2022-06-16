@@ -813,10 +813,7 @@ footer .credits a {
 .fa {
   border-radius: 50px;
   text-shadow: 10px;
-  padding-left: 15px;
-  padding-top: 15px;
-  padding-right: 15px;
-  padding-bottom: 15px;
+  padding: 15px 15px 15px 15px;
   font-size: 30px;
   height: 45px;
   width: 45px;
