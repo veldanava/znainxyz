@@ -846,7 +846,7 @@ footer .credits a {
   content: "";
   width: 0;
   height: 40px;
-  background-color: #e06666;
+  background-color: #ea9999;
   bottom: 0;
   right: 0;
   transform-origin: top right;
@@ -868,13 +868,13 @@ footer .credits a {
   overflow: hidden;
 }
 .ball.twitter {
-  background-image: radial-gradient(circle at 50% 120%, #674ea7, #8e7cc3 80%, #b4a7d6 100%);
+  background-image: radial-gradient(circle at 50% 120%, #312121, #151213 80%, #000000 100%);
 }
 .ball.github {
   background-image: radial-gradient(circle at 50% 120%, #312121, #151213 80%, #000000 100%);
 }
 .ball.website {
-  background-image: radial-gradient(circle at 50% 120%, #fb486a, #d40028 80%, #b70728 100%);
+ background-image: radial-gradient(circle at 50% 120%, #312121, #151213 80%, #000000 100%);
 }
 .ball svg {
   position: absolute;
