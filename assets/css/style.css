@@ -626,7 +626,7 @@ a:hover {
   }
 }
 .about-info{
-  background-image: url('ktp.jpg');
+  background-image: url(assets/img/ktp.jpg);
   padding: 4px;
   border-radius: 8px;
   box-shadow: 7px 7px 5px #000000;
