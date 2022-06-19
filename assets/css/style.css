@@ -625,7 +625,11 @@ a:hover {
     padding-left: 0rem;
   }
 }
-
+.texttengah{
+  text-align: center;
+  text-color: white;
+  text-size: 20px;
+}
 .skill-mf span {
   color: white;
 }
