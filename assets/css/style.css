@@ -627,8 +627,7 @@ a:hover {
 }
 .texttengah{
   background-color: #cc0000;
-  width: 230px;
-  height: 45px;
+  text-style: bold;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 8px;
@@ -915,7 +914,7 @@ footer .credits a {
   left: 0;
   top: 0;
   width: 180px;
-  height: 60px;
+  height: 70px;
   background-color: #cc0000;
   border-radius: 8px;
   z-index: 1;
