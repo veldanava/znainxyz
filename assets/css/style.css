@@ -626,7 +626,7 @@ a:hover {
   }
 }
 .about-info{
-  background-color: #cc0000;
+  background-color: #971f1f;
   border-radius: 8px;
   box-shadow: 7px 7px 5px #000000;
 }
@@ -920,10 +920,9 @@ footer .credits a {
   left: 0;
   top: 0;
   width: 180px;
-  margin-bottom: 4px;
   height: 65px;
   background-color: #cc0000;
-  border-radius: 8px;
+  border-radius: 2px;
   z-index: 1;
   box-shadow: 0 3px 5px 3px rgba(0, 0, 0, 0.2);
   transition: all cubic-bezier(0.92, -0.15, 0.21, 0.86) 0.25s;
