@@ -626,7 +626,8 @@ a:hover {
   }
 }
 .about-info{
-  background-color: #971f1f;
+  background-image: url('ktp.jpg');
+  padding: 4px;
   border-radius: 8px;
   box-shadow: 7px 7px 5px #000000;
 }
