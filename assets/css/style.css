@@ -625,6 +625,11 @@ a:hover {
     padding-left: 0rem;
   }
 }
+.about-info{
+  background-color: #cc0000;
+  border-radius: 8px;
+  box-shadow: 7px 7px 5px #000000;
+}
 .texttengah{
   background-color: #cc0000;
   padding-top: 5px;
