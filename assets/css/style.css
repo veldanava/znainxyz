@@ -909,7 +909,7 @@ footer .credits a {
   width: 180px;
   height: 60px;
   background-color: #cc0000;
-  border-radius: 2px;
+  border-radius: 8px;
   z-index: 1;
   box-shadow: 0 3px 5px 3px rgba(0, 0, 0, 0.2);
   transition: all cubic-bezier(0.92, -0.15, 0.21, 0.86) 0.25s;
