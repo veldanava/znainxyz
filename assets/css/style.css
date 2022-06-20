@@ -626,12 +626,13 @@ a:hover {
   }
 }
 .about-info{
-  text-shadow: 2px 2px #000000;
+  box-shadow: 7px 7px 5px #000000;
   background-color: #533939;
   padding: 3px;
   border-radius: 8px;
 }
 .texttengah{
+  text-shadow: 2px 2px #000000;
   background-color: #cc0000;
   padding-top: 5px;
   padding-bottom: 5px;
