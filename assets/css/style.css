@@ -725,6 +725,7 @@ a:hover {
 # Contact
 --------------------------------------------------------------*/
 .contact {
+  box-shadow: 7px 7px 5px #000000;
   border-radius: 10px;
 }
 .footer-paralax {
