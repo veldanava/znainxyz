@@ -1,6 +1,3 @@
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background-color: black;
   color: white;
@@ -116,7 +113,6 @@ a:hover {
   vertical-align: middle;
 }
 
-/*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
 }
@@ -129,7 +125,6 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*--/ Title s /--*/
 .title-s {
   font-weight: 600;
   color: #cc0000;
@@ -137,7 +132,6 @@ a:hover {
   text-shadow: 1px 1px black;
 }
 
-/*--/ Title A /--*/
 .title-box {
   margin-bottom: 4rem;
 }
@@ -161,7 +155,6 @@ a:hover {
   margin: 0 auto;
 }
 
-/*--/ Title Left /--*/
 .title-box-2 {
   margin-bottom: 3rem;
 }
@@ -171,8 +164,6 @@ a:hover {
   position: relative;
 }
 
-
-/*------/ Box /------*/
 .box-pl2 {
   padding-left: 2rem;
 }
@@ -191,7 +182,6 @@ a:hover {
   }
 }
 
-/*------/ Socials /------*/
 .socials {
   padding: 1.5rem 0;
 }
@@ -215,7 +205,6 @@ a:hover {
   transition: all 500ms ease;
 }
 
-/*------/ Ul resect /------*/
 .ul-resect, .widget-tags ul, .widget-sidebar .list-sidebar, .box-comments .list-comments, .blog-wrapper .post-meta ul, .list-ico, .socials ul {
   list-style: none;
   padding-left: 0;
@@ -230,7 +219,6 @@ a:hover {
   margin-right: 10px;
 }
 
-/*------/ Ico Circle /------*/
 .ico-circle {
   height: 100px;
   width: 100px;
@@ -243,7 +231,6 @@ a:hover {
   display: block;
 }
 
-/*------/ Owl Carousel /------*/
 .owl-theme .owl-dots {
   text-align: center;
   margin-top: 18px;
@@ -267,30 +254,6 @@ a:hover {
 .owl-theme .owl-dots .owl-dot.active span {
   background-color: #1B1B1B;
   width: 25px;
-}
-
-/*--/ Scrolltop s /--*/
-.scrolltop-mf {
-  position: relative;
-  display: none;
-}
-.scrolltop-mf span {
-  z-index: 999;
-  position: fixed;
-  width: 42px;
-  height: 42px;
-  background-color: #cc0000;
-  opacity: 0.7;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  text-align: center;
-  color: #fff;
-  top: auto;
-  left: auto;
-  right: 30px;
-  bottom: 50px;
-  cursor: pointer;
-  border-radius: 50%;
 }
 
 /*--------------------------------------------------------------
