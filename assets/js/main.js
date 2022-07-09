@@ -157,9 +157,9 @@
     });
   }
 
-  const firstName = prompt("Nama Depan? (jika kosong akan terisi null)");
-const lastName = prompt("Nama Belakang? (jika kosong akan terisi null)");
-const language = prompt("Bisa berbahasa apa? (jepang,inggris,perancis,indonesia) (jika kosong otomatis terisi indonesia)");
+  const firstName = prompt("Nama Depan? (jika kosong/batal akan terisi null)");
+const lastName = prompt("Nama Belakang? (jika kosong/batal akan terisi null)");
+const language = prompt("Bisa berbahasa apa? (jepang,inggris,perancis,indonesia) (jika kosong/batal otomatis terisi indonesia)");
  
 const user = {
    name: {
