@@ -301,6 +301,20 @@ a:hover {
   padding: 12px 0;
 }
 
+.znain{
+ text-shadow: 2px 2px #000000;
+  box-shadow: 6px 6px 5px #000000;
+  background-color: #cc0000;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 8px;
+  padding-left: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+  text-color: white;
+  text-size: 15px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
