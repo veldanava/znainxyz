@@ -612,6 +612,12 @@ a:hover {
   margin-bottom: 2rem;
 }
 .about-mf .about-img img {
+  filter: blur(3px);
+  margin-left: 0px;
+  box-shadow: 7px 7px 5px #000000;
+}
+.about-mf .about-img:hover img {
+  filter: none;
   margin-left: 0px;
   box-shadow: 7px 7px 5px #000000;
 }
