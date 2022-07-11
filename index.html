@@ -59,10 +59,10 @@
 
   <!-- ======= Hero Section ======= -->
   <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/bg.jpg)">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
 <script>
-VANTA.GLOBE({
+VANTA.BIRDS({
   el: "#hero",
   mouseControls: true,
   touchControls: true,
@@ -71,10 +71,12 @@ VANTA.GLOBE({
   minWidth: 200.00,
   scale: 1.00,
   scaleMobile: 1.00,
-  color: 0xff0000,
   color2: 0xff0000,
-  size: 0.70,
-  backgroundColor: 0x0
+  birdSize: 1.30,
+  wingSpan: 19.00,
+  speedLimit: 7.00,
+  separation: 12.00,
+  cohesion: 14.00,
   backgroundAlpha: 0.00
 })
 </script>
