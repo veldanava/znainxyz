@@ -5,10 +5,10 @@
   background-color: var(--background);
   display: block;
   width: 300px;
-  min-height: 90px;
+  min-height: 50px;
   border: 3px solid var(--primary);
   padding: 15px;
-  margin: calc(50vh - 30px) auto 0 auto;
+  margin: calc(10vh - 5px) auto 0 auto;
   box-shadow: 10px -10px 0 -3px var(--background), 10px -10px var(--satu),
         20px -20px 0 -3px var(--background), 20px -20px var(--dua), 
         30px -30px 0 -3px var(--background), 30px -30px var(--tiga), 
@@ -39,7 +39,7 @@
   --empat: #851212;
 } 
 
-.card p {
+.card h6 {
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -585,7 +585,7 @@ a:hover {
   position: relative;
   color: #fff;
 }
-.:hover .hero {
+.hero:hover{
   filter: none;
   transition: filter 0.4s ease-in-out;
 }
