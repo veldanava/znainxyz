@@ -1,9 +1,8 @@
-html {
-cursor: url:('https://cdn2.iconfinder.com/data/icons/letters-and-numbers-1/32/lowercase_letter_z_red-512.png'), default;
-}
+/*CSS CUY BIAR KEREN*/
 
-body {
+body, html {
   background-color: black;
+  cursor: url:('https://cdn2.iconfinder.com/data/icons/letters-and-numbers-1/32/lowercase_letter_z_red-512.png'), default;
   color: white;
 }
 
@@ -531,6 +530,7 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  filter: blur(3px);
   height: 100vh;
   position: relative;
   color: #fff;
